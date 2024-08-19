@@ -42,6 +42,12 @@ These phases are often iterative, especially in modern methodologies like Agile,
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+**Waterfall** is a linear, sequential approach where each phase (e.g., requirements, design, implementation) must be completed before moving on to the next. It’s rigid, making changes difficult once the project is underway, and emphasizes thorough documentation and a clear, predictable timeline. Waterfall is best for projects with well-defined, stable requirements and minimal expected changes, such as government contracts or large-scale infrastructure projects.
+
+**Agile**, on the other hand, is iterative and flexible, breaking development into small, incremental cycles (sprints) that allow for continuous feedback and adaptation. It’s highly adaptable to changing requirements, with a focus on collaboration and working software over extensive documentation. Agile is suited for projects where requirements may evolve or where rapid development and frequent user feedback are crucial, such as in software startups or mobile app development.
+
+In summary, **Waterfall** is best for projects with clear, unchanging requirements, while **Agile** is ideal for dynamic projects where adaptability and frequent iterations are key.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
